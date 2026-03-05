@@ -1,0 +1,2 @@
+#define cpu-core-selector_VERSION_MAJOR @cpu-core-selector_VERSION_MAJOR@
+#define cpu-core-selector_VERSION_MINOR @cpu-core-selector_VERSION_MINOR@
